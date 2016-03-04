@@ -7,4 +7,4 @@ a small game based on cocos2d
 
 具体可见: [项目报告](https://github.com/ValenW/Adventure/blob/master/%E6%9C%9F%E6%9C%ABproject%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.pdf)
 
-/*黑洞内的背景音乐是我选的哦，极力推荐2333*/
+也可以直接下载编译好的[可执行文件](https://github.com/ValenW/Adventure/blob/master/Adventure.7z)，直接玩耍。
